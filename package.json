@@ -16,8 +16,8 @@
     },
     "dependencies": {
         "classnames": "^2.3.1",
-        "gatsby": "^3.14.6",
-        "gatsby-plugin-sass": "^4.14.0",
+        "gatsby": "^5.6.1",
+        "gatsby-plugin-sass": "^6.6.0",
         "react": "^17.0.1",
         "react-dom": "^17.0.1",
         "sass": "^1.44.0",
